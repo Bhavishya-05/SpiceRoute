@@ -35,8 +35,11 @@
 📌 Improvements in Progress
 
 Add user authentication and checkout flow
+
 Use backend/API for real product data
+
 Add search and filter by category
+
 Connect to a  payment gateway (e.g. Razorpay)
 
 ---
