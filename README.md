@@ -33,6 +33,7 @@
 
 ---
 📌 Improvements in Progress
+
 Add user authentication and checkout flow
 
 Use backend/API for real product data
