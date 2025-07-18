@@ -1,6 +1,6 @@
 # 🍛 SpiceRoute – Food Ordering Web App
 
-**SpiceRoute** is a fully responsive food ordering web application built with **React.js** and **Tailwind CSS**. Designed to simulate a real-world food delivery platform with a smooth UI and clear navigation.
+**SpiceRoute** is a fully responsive food ordering web application built with **React.js**. Designed to simulate a real-world food delivery platform with a smooth UI and clear navigation.
 
 ## 🔗 Live Demo
 [View Live Site](https://spice-route.vercel.app/)
